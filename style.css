@@ -1,0 +1,40 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.custom-heading-font-style{
+    font-weight: 600; 
+    font-size: 48px;
+}
+.custom-header-bg{
+    background-color: #264653;
+}
+.custom-button-bg{
+    background-color: #E76F51;
+}
+.custom-font-color{
+    color: #E76F51;
+}
+.grayscale-photo{
+    filter: grayscale(1);
+}
+.customer-rating{
+    color: #E77C40;
+}
+.customer-profession-color{
+    color: #252B42;
+}
+.custom-input-field{
+    width: 300px;
+    padding-left: 10px;
+}
+
+#email{
+    padding-left: 10px;
+    height: 35px;
+    width: 250px;
+}
+#email:focus{
+    font-size: 16px;
+    color: rgb(199, 5, 63);
+}
+
